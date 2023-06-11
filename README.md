@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 3. Obtain Twitter API credentials and update the configuration file with the necessary information.
 
-4. Run the Streamlit app by providing 4 twitter api credentials as arduments:
+4. Run the Streamlit app by providing 4 twitter api credentials as arguments:
 ```http
 streamlit run app.py <arg1> <arg2> <arg3> <arg4>
 ```
