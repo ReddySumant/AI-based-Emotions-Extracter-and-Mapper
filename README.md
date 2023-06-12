@@ -15,7 +15,7 @@ This GitHub repository contains a comprehensive solution for analyzing public re
 ## Getting Started
 1. Clone the repository:
 ```http
-git clone https://github.com/yourusername/emotion-sentiment-tweet-analysis.git
+git clone https://github.com/ReddySumant/AI-based-Emotions-Extracter-and-Mapper-.git
 ```
 
 2. Install the required dependencies using pip:
